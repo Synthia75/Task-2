@@ -2,12 +2,12 @@
 ## Workflow Simulation and Optimization Analysis
 
 ## Table of Contents
-
 -Introduction
 -Project_Task
 -Tools_and_Libraries
 -How_to_run_the_Project
 -Conclusion
+
 # Introduction
 This project is a Python program designed to simulate and analyze workflows in a multi-task system. It provides insights into task dependencies, predicts task completion times, and offers recommendations for resource reallocation to optimize performance under varying workloads.
 
